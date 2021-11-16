@@ -218,7 +218,7 @@ Some packages may have [**Relics**](/resources/d66-starting-loadouts#relics) or 
 - Spellbook (random spell)
 - Spellbook (random spell)
 - Ragged Clothing (hidden pockets)
-- Two [Leycaps](https://cairnrpg.com/cairn-srd/#relics)
+- Two [Leycaps](https://dan-subic.github.io/cairn/cairn-srd/#relics)
 
 ## 53. Minstrel
 - Sling (d4)
