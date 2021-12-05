@@ -1,9 +1,9 @@
 title: Cairn
 permalink: pretty
 remote_theme: pmarsceill/just-the-docs
-domain: dan-subic.github.io/cairn
+domain: http://dan-subic.github.io/cairn
 url: https://dan-subic.github.io/cairn
-baseurl: /cairn/
+#baseurl: "https://dan-subic.github.io/cairn"
 logo: "/img/logo.png"
 color_scheme: light
 plugins:
