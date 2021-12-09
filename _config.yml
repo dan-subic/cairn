@@ -1,9 +1,9 @@
-title: Cairn
+title: Obelisk
 permalink: pretty
 remote_theme: pmarsceill/just-the-docs
 #domain: http://dan-subic.github.io/cairn
 url: https://dan-subic.github.io/
-baseurl: "/cairn/"
+baseurl: "/obelisk/"
 # logo: "/cairn/img/logo.png"
 color_scheme: dark
 plugins:
