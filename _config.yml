@@ -5,7 +5,7 @@ remote_theme: pmarsceill/just-the-docs
 url: https://dan-subic.github.io/
 baseurl: "/obelisk/"
 # logo: "/cairn/img/logo.png"
-color_scheme: dark
+color_scheme: obelisk
 plugins:
   - jekyll-redirect-from
 include:

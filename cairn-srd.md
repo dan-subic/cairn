@@ -4,19 +4,19 @@ title: SRD
 nav_order: 2
 ---
 
-# Cairn System Reference Document (v.1.0)
+# Obelisk System Reference Document (v.1.0)
 
 <p></p>
 
-**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+**Obelisk** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc).
 
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
+**Obelisk** is an adventure game for one facilitator (the **Referee**) and at least one other player.
 Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
 
 ## Index
 - [Overview](#overview)
-- [Principles for Wardens](#principles-for-wardens)
+- [Principles for Referees](#principles-for-referees)
 - [Principles for Players](#principles-for-players)
 - [Character Creation](#character-creation)
 - [Equipment](#equipment-list-prices-in-gold-pieces)
@@ -28,10 +28,10 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 
 ## Overview
 
-**Cairn** was written with the following design philosophies in mind:
+**Obelisk** was written with the following design philosophies in mind:
 
 ### Neutrality  
-The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
+The Referee's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
 
 ### Classless  
 A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences defines their specialty.
@@ -40,7 +40,7 @@ A character's role or skills are not limited by a single class. Instead, the equ
 Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
 
 ### Fiction First  
-Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
+Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Referee in dialogue with the players, based on in-world elements.
 
 ### Growth  
 Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
@@ -49,7 +49,7 @@ Characters are changed through in-world advancement, gaining new skills and abil
 Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
 
 ### Principles  
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+The Referee and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
 
 ### Shared Objectives
 Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
@@ -57,7 +57,7 @@ Players trust one another to engage with the shared setting, character goals, an
 [back to index](#index)
 <p></p>
 
-## Principles for Wardens
+## Principles for Referees
 ### Information
 - Provide useful information about the game world as the characters explore it.
 - Players do not need to roll dice to learn about their circumstances.
@@ -119,7 +119,7 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ### Exploration
 - Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
+- Take the Referee's description without suspicion, but don't shy away from seeking more information.
 - There is no single correct way forward.
 
 ### Talking
@@ -164,12 +164,12 @@ Expand For Example
 </details>
 
 ### Hit Protection  
-Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-srd#scars-1) table.
+Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](#scars-table) table.
 
 #### Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
+Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Referee's discretion.
 
 **Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 HP.
 
@@ -640,7 +640,7 @@ No one can have more than 3 Armor.
 Shields, gauntlets, and helms may provide additional benefits according to their use.
 
 ### Reactions
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+When the PCs encounter an NPC whose reaction to the party is not obvious, the Referee may roll 2d6 and consult the following table:
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
@@ -674,7 +674,7 @@ Spellbooks will attract the attention of those who seek the arcane power within,
 - They disappear after one use.
 
 ### Casting Spells
-Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Referee may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
 
 ### Relics
 **Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
@@ -695,10 +695,10 @@ The game typically plays without strict time accounting. In a fight or circumsta
 ### Actions  
 On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.
 
-Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
+Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Referee calls for a save for appropriate players or NPCs.
 
 ### Turns
-The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
+The Referee will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
 
 <details markdown="block">
   <summary>
@@ -714,7 +714,7 @@ The attacker rolls their weapon die and subtracts the target's armor, then deals
   <summary>
 Expand For Example
  </summary>
- _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining_.
+ _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Referee rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining_.
 </details>
 
 ### Multiple Attackers  
@@ -741,7 +741,7 @@ If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are 
 Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
 
 ### Scars
-When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/cairn-srd#scars-1) table for more.
+When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](#scars-table) table for more.
 
 ### Unconsciousness & Death
 When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
@@ -755,21 +755,21 @@ Attacks against individuals by detachments are **enhanced** and deal blast damag
 ### Retreat
 Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
 
-### Scars
+### Scars Table
 When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
 
 |      |                                                              |
 |------ |---|
 | 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result. |
 | 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result. |
-| 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP. |
+| 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. If the total is higher than your max HP, take the new result. |
 | 4    | Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result. |
 | 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result. |
 | 6    | Reorienting Head Wound: Roll 1d6 &#124; 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current ability score, take the new result. |
 | 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result. |
 | 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4. |
 | 9    | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result. |
-| 10   | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. |
+| 10   | Sundered: An appendage is torn off, crippled or useless. The Referee will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. |
 | 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
 | 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
@@ -999,7 +999,7 @@ No one can have more than 3 Armor.
 If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 
 **DAMAGE**  
-If an attack takes a PC's HP exactly to 0, the player rolls on the [**Scars**](/cairn-srd#scars-1) table.
+If an attack takes a PC's HP exactly to 0, the player rolls on the [**Scars**](#scars-table) table.
 
 Damage that reduces a target's HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
 
