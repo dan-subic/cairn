@@ -145,7 +145,7 @@ Players trust one another to engage with the shared setting, character goals, an
 ## Character Creation
 
 #### Name, Background & Traits
-First, choose or roll your PC’s **name** and ** background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
+First, choose or roll your PC’s **name** and **background** from their respective [tables](#name--background-d20). A PC’s background informstheir potential knowledge and skills.
 
 Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
 
@@ -182,11 +182,25 @@ All PCs begin with:
 - A torch (one slot)
 - 3d6 gold pieces
 
-Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
+Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for eachresult.
 
 See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
 
 If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
+
+#### Strange Gifts
+If the total of your PC's **STR**, **DEX**, and **WIL** is 30 or under, your PC starts with a **Strange Gift** and a **Mutation**. Your PC gets a **Strange Gift** from the table below, determined by the PC's lowest ability score and their Hit Protection.
+
+<div class="includeHeader includeColumnLabel"></div>
+
+| Lowest Attribute | 1 HP                                                                           | 2 HP                                                                   | 3 HP                                                                 | 4 HP                                                    | 5 HP                                                   | 6 HP                                                                |
+|------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------------------|
+| 3-4              | Saliva is a powerful acid                                                      | Invisible while squeezing eyes shut                                    | Can manipulate wood with hands as if it were clay                    | Can transform into a horse                              | Can bite through any material, and safely eat anything | Communicate with any creature                                       |
+| 5                | 30ft prehensile tongue                                                         | Perfect throwing accuracy, except when targeting a living creature     | Can dislodge own soul look into the spirit world by taking 1 Fatigue | Can secretly steal small objects with a mere touch      | Flammable touch & heat-resistant                       | Excellent swimming & don't need to breathe                          |
+| 6                | Body parts can be detached and reattached, can control detached parts at range | When squeezing one eye shut, can see in the dark, but not in the light | Briefly very strong after taking strong alcohol                      | Extra arm                                               | Climb any surface while hands & feet are bare          | Perfectly mimic someone's voice or replicate any sound heard before |
+| 7                | Can change someone's face at a touch. Reverts when washed                      | Can hock up a very sticky ball of gunk                                 | Gale-force sneeze                                                    | Can leap a long distance, fall from any height unharmed | Voice can come from somewhere nearby                   | Slippery skin while holding breath                                  |
+| 8                | Long, indestructible hair                                                      | Bloodhound-scent while eyes are closed                                 | Freezing touch & cold-resistant                                      | Safely swallow any item and regurgitate it later        | Can dig a hole or tunnel very fast                     | Can lay tasty green eggs                                            |
+| 9-10             | Can summon one starting item at will                                           | Shrink self & gear to 10% of original size                             | Perfect balance                                                      | Echolocate by singing                                   | Can snap fingers loud enough to deafen                 | Thrown coins & dice always land on the desired side                 |
 
 <p></p>
 
