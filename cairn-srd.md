@@ -357,24 +357,17 @@ If the total of your PC's **STR**, **DEX**, and **WIL** is 30 or under, your PC 
 
 #### Armor
 
-|  |            |           |       |
-| :---: | :--------: | :-------: | :---: |
-|  1-3  |    4-14    |   15-19   |  20   |
-| None  | Brigandine | Chainmail | Plate |
-
-#### Helmets & Shields
-
-|  |        |        |                 |
-| :---------------: | :----: | :----: | :-------------: |
-|       1-13        | 14-16  | 17-19  |       20        |
-|       None        | Helmet | Shield | Helmet & Shield |
+|       |        |           |                    |       |                |
+| :---: | :----: | :-------: | :----------------: | :---: | :------------: |
+|  1-5  |  6-11  |   12-15   |       16-18        |  19   |       20       |
+| None  | Shield | Chainmail | Chainmail & Shield | Plate | Plate & Shield |
 
 #### Weapons
 
-|                |                  |                          |                                |
-| :-------------------: | :--------------: | :----------------------: | :----------------------------: |
-|          1-5          |       6-14       |          15-19           |               20               |
-| Dagger, Cudgel, Staff | Sword, Mace, Axe | Longbow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
+|                       |                               |                   |                  |                  |                               |                |
+| :-------------------: | :---------------------------: | :---------------: | :--------------: | :--------------: | :---------------------------: | :------------: |
+|          1-4          |              5-6              |       7-8         |       9-14       |       15-16      |         17-19                 |       20       |
+| Dagger, Cudgel, Staff | Sling, Darts, Throwing Knives | Longbow, Crossbow | Sword, Mace, Axe | Pistol, Revolver | Halberd, Warhammer, Battleaxe | Rifle, Shotgun |
 
 #### Expeditionary Gear
 
@@ -451,25 +444,23 @@ If the total of your PC's **STR**, **DEX**, and **WIL** is 30 or under, your PC 
 
 #### Armor
 
-||     |
-|--------------------------------------------------------------|-----|
-|Shield (+1 Armor)   |10   |
-|Helmet (+1 Armor)    |10   |
-|Gambeson (+1 Armor)   |15   |
-|Brigandine (1 Armor, bulky)  |20   |
-|Chainmail (2 Armor, bulky)   |40   |
-|Plate (3 Armor, bulky)      |60   |
+|                                    |     |
+|------------- ----------------------|-----|
+|Shield (+1 Armor)                   |10   |
+|Brigandine or Chainmail (1 Armor)   |40   |
+|Plate (2 Armor, bulky)              |60   |
 
 #### Weapons
 
 | |     |
 |--------------------------------------------------------------|-----|
-|Dagger, Cudgel, Sickle,  Staff, etc. (d6  damage)             |5    |
+|Dagger, Cudgel, Sickle,  Staff, etc. (d6 damage)              |5    |
 |Spear, Sword, Mace, Axe,  Flail, etc. (d8 damage)             |10   |
-|Halberd, War Hammer, Long  Sword , etc. (d10 damage, bulky)   |20   |
-|Sling (d4  damage)                                            |5    |
-|Bow  (d6  damage, bulky)                                       |20   |
-|Crossbow (d8  damage, bulky)                                  |30   |
+|Halberd, War Hammer, Longsword, etc. (d10 damage, bulky)      |20   |
+|Sling, Darts, Throwing Knives, etc. (d4 damage)               |5    |
+|Bow, Crossbow, etc  (d6 damage, bulky)                        |20   |
+|Pistol, Revolver, etc. (d6 damage)                            |30   |
+|Rifle, Shotgun, etc. (d8 damage, bulky)                       |50   |
 
 #### Gear & Tools
 
@@ -505,117 +496,6 @@ If the total of your PC's **STR**, **DEX**, and **WIL** is 30 or under, your PC 
 |Lantern & Oil                                |10              |Wolfsbane          |10        |
 
 <p></p>
-
-## Optional Gear Packages  
-
-#### Cleric
-
-|                                 |
-| ------------------------------- |
-| War Hammer (d10, bulky)         |
-| Chainmail (2 Armor, bulky)      |
-| Gauntlets (+1 Armor)            |
-| Curved Blade (d6)               |
-| Holy Symbol (Ward once per day) |
-| Cloak of the Order              |
-
-#### Dowser
-
-|                                         |
-|-----------------------------------------|
-|Sickle (d6)                              |
-|Patchwork Doublet (+1  Armor)            |
-|Dowsing Rod                              |
-|Eyestone (Sense if placed in fresh water)|
-|Worn Map                                 |
-|Spyglass                                 |
-
-#### Dwarf
-
-||
-|-----------------------------------------|
-|Prickly Root (d6)                        |
-|Pinecone Lattice (1 Armor)               |
-|Trowel                                   |
-|Jar of Forest Ants                       |
-|Poisonous mushroom                       |
-|Hand Drill                               |
-
-#### Elf
-
-||
-|-----------------------------------------|
-|Elegant Sword (d8)                       |
-|Recurve Bow (d8)                         |
-|Gilt Clothing (1 Armor)                  |
-|Spellbook (_Charm_ or _Detect_)               |
-|Golden Flute                             |
-|Air Bladder                              |
-
-#### Fighter
-
-||
-|---------------------------------------|
-|Glaive (d10, bulky)                    |
-| Scimitar (d8)                         |
-|Shortsword (d6)                        |
-|Tobacco Pouch & Pipe                   |
-|Dice Set                               |
-
-#### Friar
-
-||
-|--------------------------------|
-|Scepter (d6)                    |
-|Deceptive Robes (+1 Armor)      |
-|Censer & Holy  Water            |
-|Jug of Honey Wine               |
-|Folk Songbook                   |
-|Cart (+4  slots, bulky)         |
-
-#### Knight
-
-|                            |
-| -------------------------- |
-| Longsword (d8, bulky)      |
-| Chainmail (2 Armor, bulky) |
-| Helmet (+1  Armor)         |
-| Heraldic Cape              |
-| Manacles                   |
-| Fine Rope                  |
-
-#### Magic User
-
-||
-|-----------------------------------------|
-|Fizzled Staff (d8, bulky)                |
-|Dagger (d6)                              |
-|Spellbook (random spell)                 |
-|Spellbook (random spell)                 |
-|Ragged Clothing (hidden pockets)         |
-|Leycap (x2, see Relics)                  |
-
-#### Thief
-
-||
-|-----------------------------------------|
-|Two daggers (d6+d6)                      |
-|Hooded Jerkin (1 Armor)                  |
-|Lockpicks                                |
-|Caltrops                                 |
-|Grappling Hook                           |
-|Metal File                               |
-
-#### Ranger
-
-||
-|-----------------------------------------|
-|Longbow (d8, bulky)             |
-|Hatchet (d6)                    |
-|Padded Leathers (1  Armor)      |
-|Large Trap                      |
-|Bloodhound &#124; 2 HP, 12  DEX, bite (d6) |
-|Thundering Horn                 |
 
 [back to index](#index)
 <p></p>
