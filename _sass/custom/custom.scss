@@ -6,6 +6,7 @@ body{
 
 tr:nth-child(even) td{
   // background-color: #3f3f3f;
+  background-color: $grey-dk-200;
 }
 
 th, td {
@@ -30,8 +31,13 @@ div.includeHeader + div table thead {
 }
 
 div.includeColumnLabel + div table {
-  tbody tr td:nth-child(1) {
-    background-color: $grey-dk-250;
+  tbody tr {
+    td {
+      background-color: $grey-dk-200;
+    }
+    td:nth-child(1) {
+      background-color: $grey-dk-250;
+    }
   }
   thead tr th {
     background-color: $grey-dk-250;
