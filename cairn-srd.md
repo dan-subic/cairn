@@ -182,7 +182,7 @@ All PCs begin with:
 - A torch (one slot)
 - 3d6 gold pieces
 
-Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Spellbooks**](#spellbooks-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for eachresult.
+Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Wands**](#wands-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
 
 See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
 
@@ -404,11 +404,11 @@ If the total of your PC's **STR**, **DEX**, and **WIL** is 30 or under, your PC 
 |                  |                    |                 |           |
 | :--------------: | :----------------: | :-------------: | :-------: |
 |       1-5        |        6-13        |      14-17      |   18-20   |
-| Tool or  Trinket | Expeditionary Gear | Armor or Weapon | Spellbook |
+| Tool or  Trinket | Expeditionary Gear | Armor or Weapon |   Wand    |
 
 <p></p>
 
-#### 																						Spellbooks (d100)
+#### 																						Wands (d100)
 
 |||||||||
 |---|-----------------|---|----------------|---|---------------|---|---------------|
@@ -555,31 +555,23 @@ Treasure is highly valuable, usually bulky, and rarely useful beyond its value. 
 Villages,strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
 
 ## Magic
-**Spellbooks** contain a single spell and take up one slot. They cannot be transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
+**Wands** are the most common variety of magic item. They are made by specialists using the souls of magical creatures. Wands contain a single spell and take up one slot.
 
-Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence,or being legible only when held in moonlight.
+Wands may have an appearance and special properties indicative of the spell held within. For example, a Wand containing an ice spell may be covered in frost and cold to the touch.
 
-Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
-
-**Scrolls** are similar to Spellbooks, however:
-
-- They do not take up an inventory slot.
-- They do not cause fatigue.
-- They disappear after one use.
+Wands will attract the attention of those who seek the arcane power, and it is considered dangerous to display them openly.
 
 ### Casting Spells
-Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Referee may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Spellbook, injury, and even death.
+Anyone can cast a spell by holding a Wand, pointing at a target, and focusing. They must then add a Fatigue to inventory, occupying one slot. Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. If the PC is deprived or in danger, the Referee may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect, and may result in added Fatigue, the destruction of the Wand, injury, and even death.
 
 ### Relics
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
+**Relics** are items imbued with a magical power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
 
 **Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.
 
 **Falconer's Friend** , 1 charge. A bolt-shaped wand carrying the _Haste_ spell. Recharge: fire from a crossbow and recover.
 
 **Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
-
-**Leycap** , 1 use. Anyone ingesting this green-flecked mushroom loses a Fatigue, but is then required to make a WIL save to avoid its addictive properties. A fail leaves the PC deprived and unable to focus until they can eat another leycap, providing only a brief reprieve from the addiction.
 
 ## Combat
 
@@ -676,10 +668,10 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
 - Avoid combat unless they have the advantage (such as greater numbers).
 - Guard their stolen goods to the death.
-- Prize Spellbooks; willing to trade.
+- Prize Wands; willing to trade.
 
 **Hooded Men**  
-12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Spellbook (Choose one: _Charm, Hypnotize, Push/Pull, Shield_)
+12 HP, 9 STR, 12 DEX, 14 WIL, leystaff (d8), a Wand (Choose one: _Charm, Hypnotize, Push/Pull, Shield_)
 - The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.
 - Critical damage: leech a part of the victim's soul (1d4 WIL damage).
 
@@ -694,7 +686,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 - Critical damage: moss and twigs begin growing out of target's wounds.
 
 **Frost Elf**  
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: _Sleep, Teleport, Detect Magic)_
+14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Wand (Choose one: _Sleep, Teleport, Detect Magic)_
 - Beautiful, amoral, and long-lived.
 - Resistant to most forms of magic.
 
@@ -876,8 +868,8 @@ Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than thei
 **HEALING**  
 A moment's rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
 
-**SPELLBOOKS**
-Spellbooks contain a single spell and take up one item slot. Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. Casting a spell adds **Fatigue** to the PC's inventory.
+**WANDS**  
+Wands contain a single spell and take up one item slot. Anyone can cast a spell by holding a Wand in one hand, pointing at a target, and focusing. Casting a spell adds **Fatigue** to the PC's inventory.
 
 Given time and safety, PCs can enhance a spell without any additional cost. If they are deprived or in danger, a WIL save may be required to avoid terrible consequences.
 
