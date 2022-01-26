@@ -7,4 +7,4 @@ parent: Monsters
 - Immobile constructs typically used as guardians to great tombs or artifacts.   
 - Unaffected by mundane persuasion techniques - but do love a good bone.   
 
-source: [SRD](/cairn-srd#Bestiary)
+source: [SRD](/obelisk-srd#Bestiary)

@@ -7,7 +7,7 @@ parent: Resources
 
 # More Spellbooks
 
-If Cairn's default [spells](/cairn-srd#100-spells) don't exactly fit what you're looking for, you might find it here.  
+If Obelisk's default [spells](/obelisk-srd#100-spells) don't exactly fit what you're looking for, you might find it here.  
 **Note**: assume damage rolls are against HP unless otherwise noted (e.g. 1d6 damage vs 1d6 STR loss).
 
 |      |                             |                                                              |

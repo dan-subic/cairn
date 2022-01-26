@@ -9,7 +9,7 @@ nav_order: 2
 <p></p>
 
 **Obelisk** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc).
+Peruse the [repo](https://github.com/dan-subic/obelisk) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc).
 
 **Obelisk** is an adventure game for one facilitator (the **Referee**) and at least one other player.
 Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.

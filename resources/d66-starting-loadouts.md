@@ -150,7 +150,7 @@ Some packages may have [**Relics**](/resources/d66-starting-loadouts#relics) or 
 
 ## 36. Grimalkin
 - Curved Knife (d6)
-- Hex Stone ([random spell](/cairn-srd#100-spells))
+- Hex Stone ([random spell](/obelisk-srd#100-spells))
 - Pouch of Catnip
 - [Spangle](/resources/d66-starting-loadouts/#spangle)
 - Blackberry Pie
@@ -218,7 +218,7 @@ Some packages may have [**Relics**](/resources/d66-starting-loadouts#relics) or 
 - Spellbook (random spell)
 - Spellbook (random spell)
 - Ragged Clothing (hidden pockets)
-- Two [Leycaps](https://dan-subic.github.io/cairn/cairn-srd/#relics)
+- Two [Leycaps](https://dan-subic.github.io/obelisk/obelisk-srd/#relics)
 
 ## 53. Minstrel
 - Sling (d4)
