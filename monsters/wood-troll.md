@@ -7,4 +7,4 @@ parent: Monsters
 - As an action, can recover lost HP.   
 - Critical damage: moss and twigs begin growing out of target’s wounds.   
 
-source: [SRD](/obelisk-srd#Bestiary)
+source: [SRD](/obelisk/obelisk-srd#Bestiary)

@@ -8,4 +8,4 @@ parent: Monsters
 - Guard their stolen goods to the death.   
 - Prize Spellbooks; willing to trade.   
 
-source: [SRD](/obelisk-srd#Bestiary)
+source: [SRD](/obelisk/obelisk-srd#Bestiary)

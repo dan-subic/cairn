@@ -7,4 +7,4 @@ parent: Monsters
 - Beautiful, amoral, and long-lived.  
 - Resistant to most forms of magic.  
 
-source: [SRD](/obelisk-srd#Bestiary)
+source: [SRD](/obelisk/obelisk-srd#Bestiary)

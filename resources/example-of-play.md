@@ -11,7 +11,7 @@ nav_order: 4
 **Keep the following in mind:**  
 - **Esther** is playing an ex-**Herbalist**.
 - **Barry** plays a former **Hunter**.
-- The PCs are in search of a powerful [**Relic**](/obelisk-srd/#relics), rumored to have restorative powers.
+- The PCs are in search of a powerful [**Relic**](/obelisk/obelisk-srd/#relics), rumored to have restorative powers.
 - Recently the party uncovered a parchment that detailed the item's true location, and have set off to recover it.
 
  **Warden**: _"You've spent the better part of the morning cutting your way through the **Geunant Forest**, chopping past hanging vines and waist-high brambles. It is very easy to get lost here among the surrounding underbrush. To make matters worse the Sun is completely obscured by the thick overhead branches."_
@@ -70,7 +70,7 @@ nav_order: 4
 
  **Esther**: _"Do we know anything about this creature?"_
 
- **Warden**: _"Yes - it's a [**Blood Elk**](/monsters/blood-elk/), which is a sort of killer deer born from great greed or envy. They are pretty powerful, from what you've heard."_
+ **Warden**: _"Yes - it's a [**Blood Elk**](/obelisk/monsters/blood-elk/), which is a sort of killer deer born from great greed or envy. They are pretty powerful, from what you've heard."_
 
  **Esther**: _"Spooky! In that case, I want to use my action to help drag my comrade out of the way, maybe towards that Oak tree you mentioned earlier."_
 

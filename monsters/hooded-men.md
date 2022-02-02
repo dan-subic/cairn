@@ -7,4 +7,4 @@ parent: Monsters
 - The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.   
 - Critical damage: leech a part of the victim's soul (1d4 WIL damage).   
 
-source: [SRD](/obelisk-srd#Bestiary)
+source: [SRD](/obelisk/obelisk-srd#Bestiary)
