@@ -3,7 +3,7 @@ permalink: pretty
 remote_theme: pmarsceill/just-the-docs
 #domain: http://dan-subic.github.io/obelisk
 url: https://dan-subic.github.io
-baseurl: "/obelisk/"
+baseurl: "/obelisk"
 # logo: "/obelisk/img/logo.png"
 color_scheme: obelisk
 plugins:
