@@ -7,6 +7,7 @@ nav_order: 6
 
 # Foundry VTT System
 
+The below was written for Cairn, but probably works fine for Obelisk too.
 
 Cairn has a robust system for [Foundry VTT](https://foundryvtt.com/), the popular virtual tabletop program. You can install Cairn directly from within Foundry, or you can do so manually via the [Github Repo](https://github.com/yochaigal/Cairn-FoundryVTT).
 

@@ -9,7 +9,7 @@ nav_order: 2
 <p></p>
 
 **Obelisk** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc).
+Peruse the [repo](https://github.com/dan-subic/obelisk) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc).
 
 **Obelisk** is an adventure game for one facilitator (the **Referee**) and at least one other player.
 Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
@@ -367,7 +367,7 @@ If the total of your PC's **STR**, **DEX**, and **WIL** is 30 or under, your PC 
 |                       |                               |                   |                  |                  |                               |                |
 | :-------------------: | :---------------------------: | :---------------: | :--------------: | :--------------: | :---------------------------: | :------------: |
 |          1-4          |              5-6              |       7-8         |       9-14       |       15-16      |         17-19                 |       20       |
-| Dagger, Cudgel, Staff | Sling, Darts, Throwing Knives | Longbow, Crossbow | Sword, Mace, Axe | Pistol, Revolver | Halberd, Warhammer, Battleaxe | Rifle, Shotgun |
+| Dagger, Cudgel, Staff | Sling, Darts, Throwing Knives | Longbow, Crossbow | Sword, Mace, Axe | Pistol, Revolver | Halberd, Warhammer, Battleaxe | Rifle, Musket  |
 
 #### Expeditionary Gear
 
@@ -460,7 +460,7 @@ If the total of your PC's **STR**, **DEX**, and **WIL** is 30 or under, your PC 
 |Sling, Darts, Throwing Knives, etc. (d4 damage)               |5    |
 |Bow, Crossbow, etc  (d6 damage, bulky)                        |20   |
 |Pistol, Revolver, etc. (d6 damage)                            |30   |
-|Rifle, Shotgun, etc. (d8 damage, bulky)                       |50   |
+|Rifle, Musket, etc. (d8 damage, bulky)                       |50   |
 
 #### Gear & Tools
 
