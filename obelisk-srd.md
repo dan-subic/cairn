@@ -169,22 +169,26 @@ Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects
 #### Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Referee's discretion.
+Most items take up one slot. Slots are abstract and can be rearranged per the Referee's discretion.
 
 **Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 HP.
+
+**Light** items take up a single slot, and may share a slot with one other item. Most items smaller than a dagger are light.
+
+Mundane ammunition is not tracked separately; if a PC has a weapon that requires ammunition, it is assumed the PC has enough for normal use.
 
 A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Hirelings** can also be paid to carry equipment.
 
 #### Starting Gear
 All PCs begin with:
 
-- Three days' rations (one slot)
+- Three days' rations (one slot each, light)
 - A torch (one slot)
 - 3d6 gold pieces
 
 Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Wands**](#wands-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
 
-See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
+See the **Equipment List** for related armor, damage, and slot values.
 
 If you would like something closer to traditional classes, refer to the list of [**Optional Gear Packages**](#optional-gear-packages).
 
@@ -386,10 +390,10 @@ If the total of your PC's **STR**, **DEX**, and **WIL** is 30 or under, your PC 
 | 1    | Bellows  | 6    | Cook Pots      | 11   | Grease     | 16   | Net     |
 | 2    | Bucket   | 7    | Crowbar        | 12   | Hammer     | 17   | Saw     |
 | 3    | Caltrops | 8    | Drill (Manual) | 13   | Hour Glass | 18   | Sealant |
-| 4    | Chalk    | 9    | Fishing Rod    | 14   | Metal File | 19   | Shovel  |
+| 4    | Chalk (light)    | 9    | Fishing Rod    | 14   | Metal File | 19   | Shovel  |
 | 5    | Chisel   | 10   | Glue           | 15   | Nails      | 20   | Tongs   |
 
-#### Trinkets
+#### Trinkets (light)
 
 |      |             |      |            |      |             |      |         |
 | ---- | ----------- | ---- | ---------- | ---- | ----------- | ---- | ------- |
@@ -468,30 +472,30 @@ If the total of your PC's **STR**, **DEX**, and **WIL** is 30 or under, your PC 
 |---------------------------------------------|----------------|-------------------|----------|
 |Air Bladder                                  |5               |Large Trap         |20        |
 |Bellows                                      |10              |Large Sponge       |5         |
-|Bedroll                                      |5               |Lens               |10        |
+|Bedroll                                      |5               |Lens (light)       |10        |
 |Book                                         |50              |Lockpicks          |25        |
 |Bucket                                       |5               |Manacles           |10        |
 |Caltrops                                     |10              |Metal File         |5         |
-|Cart (+4 slots, bulky)                       |30              |Mirror             |5         |
+|Cart (+4 slots, bulky)                       |30              |Mirror (light)     |5         |
 |Chain (10ft)                                 |10              |Mule (+6 slots, slow)|30      |
-|Chalk                                        |1               |Net                |10        |
+|Chalk (light)                                |1               |Net                |10        |
 |Chisel                                       |5               |Oilskin Bag        |5         |
 |Cook Pots                                    |10              |Pick               |10        |
 |Crowbar                                      |10              |Pulley             |10        |
 |Drill (Manual)                               |10              |Pole (10ft)        |5         |
-|Face Paint                                   |10              |Quill & Ink        |10        |
-|Fire Oil                                     |10              |Rations (three day's worth)|10        |
+|Face Paint                                   |10              |Quill & Ink (light)|10        |
+|Fire Oil                                     |10              |Rations (1 day, light)|3      |
 |Fishing Rod                                  |10              |Rope (25ft)        |5         |
 |Glass Marbles                                |5               |Saw                |5         |
-|Glue                                         |5               |Sack               |5         |
+|Glue                                         |5               |Sack (light)       |5         |
 |Grease                                       |10              |Shovel             |5         |
-|Grappling Hook                               |25              |Soap               |1         |
-|Hammer                                       |5               |Spike              |1         |
-|Holy Water                                   |25              |Spiked Boots       |5         |
-|Horn                                         |10              |Spyglass           |40        |
+|Grappling Hook                               |25              |Soap (light)       |1         |
+|Hammer                                       |5               |Spike (light)      |1         |
+|Holy Water                                   |25              |Spiked Boots (light)|5         |
+|Horn (light)                                 |10              |Spyglass           |40        |
 |Horse (+4 slots)                             |75              |Tar                |10        |
 |Hourglass                                    |50              |Tent (fits 2 people, bulky)|20        |
-|Incense                                      |10              |Torch              |1         |
+|Incense (light)                              |10              |Torch              |1         |
 |Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200    |
 |Lantern & Oil                                |10              |Wolfsbane          |10        |
 
@@ -607,9 +611,18 @@ Expand For Example
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
 
 ### Attack Modifiers
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.
+If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired**; the attacker must roll 1d4 damage regardless of the attack's damage die, and cannot benefit from a **bonus**.
 
-If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.
+If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack has a **bonus**. The attacker rolls an extra die, and keeps the single highest result. The greater the advantage, the larger the extra die is. A bonus is indicated by a die prepended with a plus symbol, such as +d8 or +d12.
+
+Refer to the following chart as a guide for which bonus die to use.
+
+||
+|---|---|
+|+d6|Attacking from higher ground, target is knee-deep in water|
+|+d8|Target is in a very narrow hallway|
+|+d10|Target is prone or swimming|
+|+d12|Target is restrained, unaware, or helpless|
 
 ### Dual Weapons
 If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
@@ -635,8 +648,8 @@ When a character dies, the player is free to create a new character or take cont
 ### Detachments
 Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
 
-Attacks against detachments by individuals are **impaired** (excluding blast damage).  
-Attacks against individuals by detachments are **enhanced** and deal blast damage.
+Attacks against detachments by individuals are **impaired** (excluding blast damage).
+Attacks against individuals by detachments gain +d10 and deal blast damage.
 
 ### Retreat
 Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
@@ -858,7 +871,7 @@ On their turn, a character may move up to 40ft and take up to one action. Action
 **HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
 
 **INVENTORY**  
-PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
+PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot. **Bulky** items take up two slots and are awkward or difficult to carry. **Light** items can share a slot with one other item.
 
 Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than their inventory allows, though carts & horses may provide an increase in slots.
 
@@ -882,7 +895,7 @@ No one can have more than 3 Armor.
 
 **Unarmed** attacks always do 1d4 damage. If **multiple attackers** target the same foe, roll all damage dice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.
 
-If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
+If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack has a **bonus**, the attacker rolls an extra die. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 
 **DAMAGE**  
 If an attack takes a PC's HP exactly to 0, the player rolls on the [**Scars**](#scars-table) table.

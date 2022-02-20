@@ -116,7 +116,7 @@ If Obelisk's default [spells](/obelisk/obelisk-srd#100-spells) don't exactly fit
 | 102  | Magic Seal                  | Magically locks a door, portal or chest.                     |
 | 103  | Major Genesis               | Creates an object of nonliving stone or metal no greater than 5 cubic foot in size. |
 | 104  | Maker                       | Transforms raw materials into finished items.                |
-| 105  | Manic Fury                  | A target's attacks are enhanced. They must make a WIL save after a successful killing or lose control, attacking anyone in sight. |
+| 105  | Manic Fury                  | A target's attacks are gain +d12. They must make a WIL save after a successful killing or lose control, attacking anyone in sight. |
 | 106  | Masquerade                  | You assume the likeness of a similar creature you have seen. |
 | 107  | Master Undead               | Undead creatures obey your command. Intelligent undead make a WIL save. |
 | 108  | Mental Tripwire             | Intruders set off an alarm audible only to you.              |
@@ -188,7 +188,7 @@ If Obelisk's default [spells](/obelisk/obelisk-srd#100-spells) don't exactly fit
 | 174  | Sonic Shattering            | A sonic wave causes 1d6 STR loss to susceptible objects or crystalline creatures, ignoring armor. |
 | 175  | Sorcerer's Lock             | Any door (magical or otherwise) is held shut until you leave its vicinity. |
 | 176  | Soul Annex                  | Target's spirit is caged within their body and replaced with the caster's. If the body is slain the original soul departs, but the caster must pass a WIL save to return to their body. |
-| 177  | Steer's Strength            | Target's strength triples; unarmed attacks are enhanced.     |
+| 177  | Steer's Strength            | Target's strength triples; unarmed attacks gain +d10.     |
 | 178  | Stumbling Steps             | A target you touch becomes deprived and loses 1 STR.         |
 | 179  | Stupefaction                | Target temporarily loses sense of place and time. WIL save to overcome. |
 | 180  | Sudden Slumber              | Target falls asleep for 1d4 hours.                           |
@@ -206,11 +206,11 @@ If Obelisk's default [spells](/obelisk/obelisk-srd#100-spells) don't exactly fit
 | 192  | Twilight Steed              | Summons an arcane steed that never tires, but dissipates within daylight. |
 | 193  | Uncurse                     | Frees target from magical alterations of any kind.           |
 | 194  | Undefinable Target          | An ally becomes immune to mundane ranged attacks for one round. |
-| 195  | Undeniable Courage          | Target passes next WIL save and their attacks are enhanced.  |
+| 195  | Undeniable Courage          | Target passes next WIL save and their attacks gain +d8.  |
 | 196  | Unflappable Endurance       | Target does not take Fatigue from non-magical activities or become deprived until their next rest. |
 | 197  | Vermin Plague               | Summons a swarm of bats, rats, spiders or similar creatures of your choice. They are harmless but distracting and hold no loyalty towards you or your allies. |
 | 198  | Vines of Ichor              | You spread sticky spiderwebs on the walls, floor and ceilings within a 20ft radius. |
-| 199  | Warrior's Edge              | Target weapon is enhanced, and victim automatically fails a critical damage save. |
+| 199  | Warrior's Edge              | Target weapon gains +d10, and victim automatically fails a critical damage save. |
 | 200  | Windborn                    | You direct a powerful wind in a straight line, strong enough to blow over small boulders. |
 | 201  | Winter's Woe                | An icy storm assails multiple targets, obscuring visibility and making the ground icy and treacherous. |
 | 202  | Witch Sight                 | Magical auras become visible to you for one hour.            |

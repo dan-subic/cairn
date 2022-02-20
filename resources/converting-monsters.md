@@ -22,7 +22,7 @@ Review the instructions in the [SRD](/obelisk/obelisk-srd/#creating-monsters). A
 - **Willpower** is tricky. It rarely comes up but when it does, it's nice to have. High **WIL** is strong personality, spirit or presence.
 - Attack **damage** is pretty straightforward coming from games like OSE (or B / X); you can usually just copy them as-is. Double-check with the [weapons table](/obelisk/obelisk-srd/#weapons) if unsure.
 - Multiple attacks (e.g. 2 x claw, 1 x sting) typically convert to [_Blast_](/obelisk/obelisk-srd#Blast) and/or the "two weapons" rule (e.g. d6+d6 is roll 2d6, keep highest).
-- When in doubt, think about how much serious damage the creature is supposed to do. Remember that instead of raising attack damage a step, think about making it _enhanced_ in certain situations or use the _Blast_ and "two weapons" rule.
+- When in doubt, think about how much serious damage the creature is supposed to do. Remember that instead of raising attack damage a step, think about giving it a _bonus_ in certain situations or use the _Blast_ and "two weapons" rule.
 - Spells are tricky; you can give wizardy-types Spellbooks but remember, the creature might _drop_ them when they are defeated. I like to make 1d4 dropped Spellbooks implode ([Die of Fate](/obelisk/obelisk-srd#die-of-fate)).
 - Magical creatures can just "know" a bunch of spells. In this case make their corpse magical (and dangerous).
 - Sometimes a direct stat to stat translation isn't an option. That's OK! There is a way (see below).

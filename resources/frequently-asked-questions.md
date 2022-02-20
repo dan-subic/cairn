@@ -289,7 +289,7 @@ In **Cairn**, character _growth_ is preferable over _advancement_. This means th
 - Training & Specialization should be tied to quests and character growth as much as possible.
 
 **A Few Examples of Training & Specialization:**
-- Two days of study under a former royal archer has taught you how to fire arrows more effectively. Attacks with a longbow are enhanced.
+- Two days of study under a former royal archer has taught you how to fire arrows more effectively. Attacks with a longbow gain +d8.
 - After two weeks' of daily practice with the _Blade of Gwoed_, you feel confident enough to use it the deadly weapon in combat. Critical Damage: target loses a limb or is disemboweled (your choice).
 - Three days' worth of study under the tutelage of a skilled warrior has taught you how to never be surprised. You no longer need to make a DEX save before combat (unless the Warden says otherwise).
 - Five nights of intense study with the _Book of Curses_ has given you an edge in battle. If you insult an opponent before combat, all of their attacks against you and your friends are impaired.
