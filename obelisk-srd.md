@@ -173,7 +173,7 @@ Most items take up one slot. Slots are abstract and can be rearranged per the Re
 
 **Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 HP.
 
-**Light** items take up a single slot, and may share a slot with one other item. A light item is usually smaller than a dagger.
+**Light** items take up a single slot, and may share a slot with one other item. Most items smaller than a dagger are light.
 
 Mundane ammunition is not tracked separately; if a PC has a weapon that requires ammunition, it is assumed the PC has enough for normal use.
 
