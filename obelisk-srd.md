@@ -607,9 +607,18 @@ Expand For Example
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
 
 ### Attack Modifiers
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.
+If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired**; the attacker must roll 1d4 damage regardless of the attack's damage die, and cannot benefit from a **bonus**.
 
-If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.
+If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack has a **bonus**. The attacker rolls an extra die, and keeps the single highest result. The greater the advantage, the larger the extra die is. A bonus is indicated by a die prepended with a plus symbol, such as +d8 or +d12.
+
+Refer to the following chart as a guide for which bonus die to use.
+
+||
+|---|---|
+|+d6|Attacking from higher ground, target is knee-deep in water|
+|+d8|Target is in a very narrow hallway|
+|+d10|Target is prone or swimming|
+|+d12|Target is restrained, unaware, or helpless|
 
 ### Dual Weapons
 If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
@@ -635,8 +644,8 @@ When a character dies, the player is free to create a new character or take cont
 ### Detachments
 Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
 
-Attacks against detachments by individuals are **impaired** (excluding blast damage).  
-Attacks against individuals by detachments are **enhanced** and deal blast damage.
+Attacks against detachments by individuals are **impaired** (excluding blast damage).
+Attacks against individuals by detachments gain +d10 and deal blast damage.
 
 ### Retreat
 Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
@@ -882,7 +891,7 @@ No one can have more than 3 Armor.
 
 **Unarmed** attacks always do 1d4 damage. If **multiple attackers** target the same foe, roll all damage dice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.
 
-If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced**, the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
+If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack has a **bonus**, the attacker rolls an extra die. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 
 **DAMAGE**  
 If an attack takes a PC's HP exactly to 0, the player rolls on the [**Scars**](#scars-table) table.
