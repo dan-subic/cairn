@@ -578,6 +578,18 @@ Anyone can cast a spell by holding a Wand, pointing at a target, and focusing. T
 
 **Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
 
+### Magical Materials
+Some materials interact with magic in special ways. They are usually more effective the more ephemeral the magical effect is. Some of the most well-known of these materials are described below.
+
+**Gold** attracts magical effects & spirits. Spells may redirect to hit targets made of gold.
+
+**Silver** repels magical effects & spirits. Spells may try to avoid targets made of silver. Some magical creatures are particularly harmed by silver.
+
+**Lead** blocks magical effects & spirits. Ghosts, divination, and similar effects have difficulty passing through leaden barriers.
+
+**Spirit Essence** enhances magical effects, and the effects of other magical materials. It is made of liquefied souls, and evaporates rapidly unless stored in lead containers.
+
+
 ## Combat
 
 ### Rounds
