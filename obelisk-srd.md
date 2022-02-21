@@ -377,11 +377,11 @@ If the total of your PC's **STR**, **DEX**, and **WIL** is 30 or under, your PC 
 
 |      |                        |      |                |      |             |      |             |
 | ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1    | Air Bladder            | 6    | Fire Oil       | 11   | Manacles    | 16   | Rope (25ft) |
-| 2    | Antitoxin              | 7    | Grappling Hook | 12   | Pick        | 17   | Spirit Ward |
+| 1    | Air Bladder            | 6    | Gold Wire      | 11   | Manacles    | 16   | Rope (25ft) |
+| 2    | Antitoxin              | 7    | Grappling Hook | 12   | Pick        | 17   | Silver Dust |
 | 3    | Cart (+4 slots, bulky) | 8    | Large Sack     | 13   | Pole (10ft) | 18   | Spyglass    |
 | 4    | Chain (10ft)           | 9    | Large Trap     | 14   | Pulley      | 19   | Tinderbox   |
-| 5    | Dowsing Rod            | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |
+| 5    | Fire Oil               | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |
 
 #### Tools
 
@@ -488,10 +488,11 @@ If the total of your PC's **STR**, **DEX**, and **WIL** is 30 or under, your PC 
 |Fishing Rod                                  |10              |Rope (25ft)        |5         |
 |Glass Marbles                                |5               |Saw                |5         |
 |Glue                                         |5               |Sack (light)       |5         |
-|Grease                                       |10              |Shovel             |5         |
-|Grappling Hook                               |25              |Soap (light)       |1         |
-|Hammer                                       |5               |Spike (light)      |1         |
-|Holy Water                                   |25              |Spiked Boots (light)|5         |
+|Gold or Silver Wire                          |100             |Shovel             |5         |
+|Grease                                       |10              |Soap (light)       |1         |
+|Grappling Hook                               |25              |Spike (light)      |1         |
+|Hammer                                       |5               |Spiked Boots (light)|5         |
+|Holy Water                                   |25              |Spirit Essence     |100       |
 |Horn (light)                                 |10              |Spyglass           |40        |
 |Horse (+4 slots)                             |75              |Tar                |10        |
 |Hourglass                                    |50              |Tent (fits 2 people, bulky)|20        |
@@ -576,6 +577,18 @@ Anyone can cast a spell by holding a Wand, pointing at a target, and focusing. T
 **Falconer's Friend** , 1 charge. A bolt-shaped wand carrying the _Haste_ spell. Recharge: fire from a crossbow and recover.
 
 **Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
+
+### Magical Materials
+Some materials interact with magic in special ways. They are usually more effective the more ephemeral the magical effect is. Some of the most well-known of these materials are described below.
+
+**Gold** attracts magical effects & spirits. Spells may redirect to hit targets made of gold.
+
+**Silver** repels magical effects & spirits. Spells may try to avoid targets made of silver. Some magical creatures are particularly harmed by silver.
+
+**Lead** blocks magical effects & spirits. Ghosts, divination, and similar effects have difficulty passing through leaden barriers.
+
+**Spirit Essence** enhances magical effects, and the effects of other magical materials. It is made of liquefied souls, and evaporates rapidly unless stored in lead containers.
+
 
 ## Combat
 
