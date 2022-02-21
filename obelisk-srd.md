@@ -377,11 +377,11 @@ If the total of your PC's **STR**, **DEX**, and **WIL** is 30 or under, your PC 
 
 |      |                        |      |                |      |             |      |             |
 | ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1    | Air Bladder            | 6    | Fire Oil       | 11   | Manacles    | 16   | Rope (25ft) |
-| 2    | Antitoxin              | 7    | Grappling Hook | 12   | Pick        | 17   | Spirit Ward |
+| 1    | Air Bladder            | 6    | Gold Wire      | 11   | Manacles    | 16   | Rope (25ft) |
+| 2    | Antitoxin              | 7    | Grappling Hook | 12   | Pick        | 17   | Silver Dust |
 | 3    | Cart (+4 slots, bulky) | 8    | Large Sack     | 13   | Pole (10ft) | 18   | Spyglass    |
 | 4    | Chain (10ft)           | 9    | Large Trap     | 14   | Pulley      | 19   | Tinderbox   |
-| 5    | Dowsing Rod            | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |
+| 5    | Fire Oil               | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |
 
 #### Tools
 
@@ -488,10 +488,11 @@ If the total of your PC's **STR**, **DEX**, and **WIL** is 30 or under, your PC 
 |Fishing Rod                                  |10              |Rope (25ft)        |5         |
 |Glass Marbles                                |5               |Saw                |5         |
 |Glue                                         |5               |Sack (light)       |5         |
-|Grease                                       |10              |Shovel             |5         |
-|Grappling Hook                               |25              |Soap (light)       |1         |
-|Hammer                                       |5               |Spike (light)      |1         |
-|Holy Water                                   |25              |Spiked Boots (light)|5         |
+|Gold or Silver Wire                          |100             |Shovel             |5         |
+|Grease                                       |10              |Soap (light)       |1         |
+|Grappling Hook                               |25              |Spike (light)      |1         |
+|Hammer                                       |5               |Spiked Boots (light)|5         |
+|Holy Water                                   |25              |Spirit Essence     |100       |
 |Horn (light)                                 |10              |Spyglass           |40        |
 |Horse (+4 slots)                             |75              |Tar                |10        |
 |Hourglass                                    |50              |Tent (fits 2 people, bulky)|20        |
