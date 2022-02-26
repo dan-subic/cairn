@@ -367,12 +367,12 @@ Determine your PC's Gift by cross-referencing their lowest ability score and the
 
 #### Mutations
 
-Roll 1d4 for the nature of the mutation, and 1d20 for the body part.
+Roll 1d6 for the nature of the mutation, and 1d20 for the body part.
 
-|    |    |    |    |
-|:---------:|:---------:|:---------:|:---------:|
-| 1         | 2         | 3         | 4         |
-| Weird     | Elemental | Monstrous | Animal    |
+|           |           |           |           |           |           |
+|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+| 1         | 2         | 3         | 4         | 5         | 6         |
+| Weird     | Elemental | Monstrous | Animal    | Artificial | Alien    |
 
 |    |        |    |    |
 |:--:|:------:|:--:|:------:|:--:|:------:|:--:|:------:|
