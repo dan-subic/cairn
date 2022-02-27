@@ -503,29 +503,29 @@ Roll 1d6 for the nature of the mutation, and 1d20 for the body part.
 |Book                                         |50              |Lockpicks          |25        |
 |Bucket                                       |5               |Manacles           |10        |
 |Caltrops                                     |10              |Metal File         |5         |
-|Cart (+4 slots, bulky)                       |30              |Mirror (light)     |5         |
-|Chain (10ft)                                 |10              |Mule (+6 slots, slow)|30      |
-|Chalk (light)                                |1               |Net                |10        |
-|Chisel                                       |5               |Oilskin Bag        |5         |
-|Cook Pots                                    |10              |Pick               |10        |
-|Crowbar                                      |10              |Pulley             |10        |
-|Drill (Manual)                               |10              |Pole (10ft)        |5         |
-|Face Paint                                   |10              |Quill & Ink (light)|10        |
-|Fire Oil                                     |10              |Rations (1 day, light)|3      |
-|Fishing Rod                                  |10              |Rope (25ft)        |5         |
-|Glass Marbles                                |5               |Saw                |5         |
-|Glue                                         |5               |Sack (light)       |5         |
-|Gold or Silver Wire                          |100             |Shovel             |5         |
-|Grease                                       |10              |Soap (light)       |1         |
-|Grappling Hook                               |25              |Spike (light)      |1         |
-|Hammer                                       |5               |Spiked Boots (light)|5         |
-|Holy Water                                   |25              |Spirit Essence     |100       |
-|Horn (light)                                 |10              |Spyglass           |40        |
-|Horse (+4 slots)                             |75              |Tar                |10        |
-|Hourglass                                    |50              |Tent (fits 2 people, bulky)|20        |
-|Incense (light)                              |10              |Torch              |1         |
-|Ladder (bulky, 10ft)                         |10              |Wagon (+8 slots, slow)|200    |
-|Lantern & Oil                                |10              |Wolfsbane          |10        |
+|Candle (light)                               |5               |Mirror (light)     |5         |
+|Cart (+4 slots, bulky)                       |30              |Mule (+6 slots, slow)|30      |
+|Chain (10ft)                                 |10              |Net                |10        |
+|Chalk (light)                                |1               |Oilskin Bag        |5         |
+|Chisel                                       |5               |Pick               |10        |
+|Cook Pots                                    |10              |Pulley             |10        |
+|Crowbar                                      |10              |Pole (10ft)        |5         |
+|Drill (Manual)                               |10              |Quill & Ink (light)|10        |
+|Face Paint                                   |10              |Rations (1 day, light)|3      |
+|Fire Oil                                     |10              |Rope (25ft)        |5         |
+|Fishing Rod                                  |10              |Saw                |5         |
+|Glass Marbles                                |5               |Sack (light)       |5         |
+|Glue                                         |5               |Shovel             |5         |
+|Gold or Silver Wire                          |100             |Soap (light)       |1         |
+|Grease                                       |10              |Spike (light)      |1         |
+|Grappling Hook                               |25              |Spiked Boots (light)|5        |
+|Hammer                                       |5               |Spirit Essence     |75        |
+|Holy Water                                   |25              |Spyglass           |40        |
+|Horn (light)                                 |10              |Tar                |10        |
+|Horse (+4 slots)                             |75              |Tent (fits 2 people, bulky)|20|
+|Hourglass                                    |50              |Torch              |1         |
+|Incense (light)                              |10              |Wagon (+8 slots, slow)|200    |
+|Ladder (bulky, 10ft)                         |10              |Wolfsbane          |10        |
 
 <p></p>
 
@@ -554,7 +554,7 @@ Expand For Example
 </details>
 
 ### Healing
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
+Resting for about 10 minutes and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
 
 ### Deprivation & Fatigue
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
@@ -711,6 +711,28 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 | 10   | Sundered: An appendage is torn off, crippled or useless. The Referee will tell you which. Roll 3d6. If the total is higher than your max STR, take the new result. |
 | 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 3d6. If the total is higher than your max HP, take the new result. |
 | 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+
+
+## Dungeoneering
+
+### Light sources
+
+Dungeons are dark environments. Most native inhabitants of dungeons can see well in the dark, or have other special senses. PCs, on the other hand, usually require light sources to navigate dungeons.
+
+Portable light sources such as candles & torches are fairly dim. They shed bright light in a radius of just 5 feet, and dim light for a further 5 feet. Candles & torches last around 1 hour on average.
+
+### Dungeon Turns
+
+Every 10 minutes spent in a dungeon, the Referee rolls on the following table. If a result doesn't make sense, ignore it.
+
+|||
+|--|--|
+| 1  | The PCs encounter a creature. Roll on the dungeon's encounter table. |
+| 2  | The PCs find a clue left by a creature. Roll on the dungeon's encounter table for the creature that left the clue.|
+| 3  | Short-lasting spells & other magical effects expire.|
+| 4  | Light sources such as candles and torches expire.|
+| 5  | Conditions in the dungeon change. |
+| 6  | Nothing. |
 
 [back to index](#index)
 <p></p>
@@ -908,7 +930,7 @@ On their turn, a character may move up to 40ft and take up to one action. Action
 - 1 is always a success, 20 is always a failure.
 
 **HIT PROTECTION**  
-**HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
+**HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after 10 minutes of rest.
 
 **INVENTORY**  
 PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot. **Bulky** items take up two slots and are awkward or difficult to carry. **Light** items can share a slot with one other item.
