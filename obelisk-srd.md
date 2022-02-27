@@ -12,7 +12,7 @@ nav_order: 2
 Peruse the [repo](https://github.com/dan-subic/obelisk) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc).
 
 **Obelisk** is an adventure game for one facilitator (the **Referee**) and at least one other player.
-Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
+Players act as hardened adventurers exploring dark & mysterious dungeons filled with strange folk, hidden treasure, and unspeakable monstrosities.
 
 ## Index
 - [Overview](#overview)
@@ -34,7 +34,7 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 The Referee's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
 
 ### Classless  
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences defines their specialty.
+A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.
 
 ### Death
 Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
@@ -73,12 +73,12 @@ Players trust one another to engage with the shared setting, character goals, an
 ### Preparation
 - The game world is organic, malleable and random. It intuits and makes sharp turns.
 - Use random tables and generators to develop situations, not stories or plots.
-- NPCs remember what the PCs say and do,and how they affect the world.
+- NPCs remember what the PCs say and do, and how they affect the world.
 - NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
 
 ### Narrative Focus  
 - Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
-- Pay attention to the needs and wants of the players,then put realistic opportunities in their path.
+- Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
 - A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
 
 ### Danger  
@@ -100,7 +100,7 @@ Players trust one another to engage with the shared setting, character goals, an
 - Ensure that the player character's actions leave their mark on the game world.
 
 ### Die of Fate  
-- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge,etc.).
+- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.)
 - In these situations, roll 1d6. A roll of 4 or more generally favors the players.
 - A roll of 3 or under tends to mean bad luck for the PCs or their allies.
 
@@ -184,6 +184,7 @@ All PCs begin with:
 
 - Three days' rations (one slot each, light)
 - A torch (one slot)
+- Clothes (one slot, light)
 - 3d6 gold pieces
 
 Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Wands**](#wands-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
@@ -375,12 +376,12 @@ Roll 1d6 for the nature of the mutation, and 1d20 for the body part.
 | Weird     | Elemental | Monstrous | Animal    | Artificial | Alien    |
 
 |    |        |    |    |
-|:--:|:------:|:--:|:------:|:--:|:------:|:--:|:------:|
-| 1  |  Eyes  | 6  |  Ears  | 11 | Hands  | 16 | Chest  |
-| 2  |  Teeth | 7  |  Face  | 12 | Arms   | 17 | Back   |
-| 3  | Tongue | 9  |  Hair  | 13 | Feet   | 18 | Torso  |
-| 4  | Mouth  | 9  |  Head  | 14 | Legs   | 19 | Roll twice  |
-| 5  |  Nose  | 10 |  Skin  | 15 | Limbs  | 20 | Roll twice  |
+|--|------|--|------|--|------|--|------|
+| 1|Eyes  | 6|  Ears|11|Hands |16|Chest |
+| 2|Teeth | 7|  Face|12|Arms  |17|Back  |
+| 3|Tongue| 9|  Hair|13|Feet  |18|Torso |
+| 4|Mouth | 9|  Head|14|Legs  |19|Roll twice  |
+| 5|Nose  |10|  Skin|15|Limbs |20|Roll twice  |
 
 <p></p>
 
@@ -587,7 +588,7 @@ Treasure is highly valuable, usually bulky, and rarely useful beyond its value. 
 Villages,strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
 
 ## Magic
-**Wands** are the most common variety of magic item. They are made by specialists using the souls of magical creatures. Wands contain a single spell and take up one slot.
+**Wands** are the most common type of magic item. They are made by specialists using the souls of magical creatures. Wands contain a single spell and take up one slot.
 
 Wands may have an appearance and special properties indicative of the spell held within. For example, a Wand containing an ice spell may be covered in frost and cold to the touch.
 
@@ -599,11 +600,11 @@ Anyone can cast a spell by holding a Wand, pointing at a target, and focusing. T
 ### Relics
 **Relics** are items imbued with a magical power. They do not cause Fatigue. Relics usually have a limited use, as well as a recharge condition. A few examples:
 
-**Honeyclasp** , 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.
+**Honeyclasp**, 3 charges. A rusted ring that shrinks the bearer to 6" tall. Recharge: place in a thimble-sized cup of royal jelly.
 
-**Falconer's Friend** , 1 charge. A bolt-shaped wand carrying the _Haste_ spell. Recharge: fire from a crossbow and recover.
+**Falconer's Friend**, 1 charge. A bolt-shaped wand carrying the _Haste_ spell. Recharge: fire from a crossbow and recover.
 
-**Staff of Silence** , 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
+**Staff of Silence**, 1 charge. This blackened rod temporarily disables all magic within 50ft. Recharge: bathe in the light of a full moon.
 
 ### Magical Materials
 Some materials interact with magic in special ways. They are usually more effective the more ephemeral the magical effect is. Some of the most well-known of these materials are described below.
@@ -614,7 +615,7 @@ Some materials interact with magic in special ways. They are usually more effect
 
 **Lead** blocks magical effects & spirits. Ghosts, divination, and similar effects have difficulty passing through leaden barriers.
 
-**Spirit Essence** enhances magical effects, and the effects of other magical materials. It is made of liquefied souls, and evaporates rapidly unless stored in lead containers.
+**Spirit Essence** enhances magical effects, and the effects of other magical materials. It is made of liquefied souls, and evaporates rapidly unless stored in a lead container.
 
 
 ## Combat
@@ -683,7 +684,7 @@ Complete DEX and WIL loss renders the character unable to act until they are res
 When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](#scars-table) table for more.
 
 ### Unconsciousness & Death
-When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+When a character dies, the player is free to create a new character or take control of a hireling. They join the party as soon as possible in order to reduce downtime.
 
 ### Detachments
 Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
@@ -785,7 +786,7 @@ Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 
 - Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
 - Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
 - Use critical damage to lean into the threat or strangeness of any aggressive NPC.
-- Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
+- Remember that HP is **Hit Protection**, not Hit Points. It's a measure of resilience, luck, and gumption - not health.
 
 **Converting from OSR Games**  
 - Give 1 HP per HD for most creatures.
