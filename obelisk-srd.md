@@ -554,7 +554,7 @@ Expand For Example
 </details>
 
 ### Healing
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
+Resting for about 10 minutes and having a drink of water restores lost HP but leaves the party exposed. Ability loss (see **Critical Damage**) can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services are free, while magical or more expedient means of recovery may come at a cost.
 
 ### Deprivation & Fatigue
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
