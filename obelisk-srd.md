@@ -930,7 +930,7 @@ On their turn, a character may move up to 40ft and take up to one action. Action
 - 1 is always a success, 20 is always a failure.
 
 **HIT PROTECTION**  
-**HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
+**HP** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after 10 minutes of rest.
 
 **INVENTORY**  
 PCs have 10 inventory slots: four on their body and six in their backpack (which acts as a sleeping bag if emptied). Most items take up a one slot. **Bulky** items take up two slots and are awkward or difficult to carry. **Light** items can share a slot with one other item.
