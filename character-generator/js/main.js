@@ -10,16 +10,23 @@ const bonus = generate_text("bonus");
 
 let allItems = [];
 allItems.push(armor, weapons, gear, tool, trinket, bonus);
-let total = 2;
+let nonLightTotal = 1;
+let lightTotal = 4;
 for (let i = 0; i < allItems.length; i++) {
   let item = allItems[i];
   if (item.includes("bulky")) {
-    total += 2;
-  } else if (total > 10){
-    total = 10;
-  } else if (!item.includes("protection") && (!item.includes("nor") && (!item.includes("stacks")))) {
-    total++;
+    nonLightTotal += 2;
+  } else if (!item.includes("nor") && !item.includes("light")) {
+    nonLightTotal++;
+  } else if (item.includes("light")) {
+    lightTotal++;
   }
+}
+
+let total = nonLightTotal;
+if (lightTotal > nonLightTotal) {
+  const spillover = lightTotal - nonLightTotal;
+  total += Math.ceil(spillover / 2.0)
 }
 
 let armorTotal = 0;
@@ -44,5 +51,7 @@ $("#gear").html(gear);
 $("#trinket").html(trinket);
 $("#bonus").html(bonus);
 $("#armorTotal").html(armorTotal);
-$("#total").html(total);
+$("#slotsTotal").html(total);
+$("#slotsNonLight").html(nonLightTotal);
+$("#slotsLight").html(lightTotal);
 $("#gold").html(roll(6) + roll(6) + roll(6));

@@ -417,7 +417,7 @@ Roll 1d6 for the nature of the mutation, and 1d20 for the body part.
 | ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
 | 1    | Bellows  | 6    | Cook Pots      | 11   | Grease     | 16   | Net     |
 | 2    | Bucket   | 7    | Crowbar        | 12   | Hammer     | 17   | Saw     |
-| 3    | Caltrops | 8    | Drill (Manual) | 13   | Hour Glass | 18   | Sealant |
+| 3    | Caltrops | 8    | Drill (Manual) | 13   | Hourglass | 18   | Sealant |
 | 4    | Chalk (light)    | 9    | Fishing Rod    | 14   | Metal File | 19   | Shovel  |
 | 5    | Chisel   | 10   | Glue           | 15   | Nails      | 20   | Tongs   |
 

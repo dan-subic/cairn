@@ -225,7 +225,7 @@ gen_data['equipment'] = [
   'armor: {armor}<br><br>Weapons: {weapons}<br>Items: {tool,gear,trinket}<br>Bonus item: {bonus}'
 ]
 gen_data['armor'] = {
-  '1-5': 'No armor',
+  '1-5': 'No armor nor shield',
   '6-11': 'Shield',
   '12-15': 'Chainmail',
   '16-18': 'Chainmail & Shield',
@@ -234,16 +234,22 @@ gen_data['armor'] = {
 }
 
 gen_data['weapons'] = {
-'1-10':'{wgroup1}',
-'11-14':'{wgroup2}',
-'15-19':'{wgroup3}',
-'20':'{wgroup4}'
+'1-4':'{wgroup1}',
+'5-6':'{wgroup2}',
+'7-8':'{wgroup3}',
+'9-14':'{wgroup4}',
+'15-16':'{wgroup5}',
+'17-19':'{wgroup6}',
+'20':'{wgroup7}'
 }
 
 gen_data['wgroup1'] = ['Dagger', 'Cudgel', 'Staff']
-gen_data['wgroup2'] = ['Sword', 'Mace', 'Axe']
-gen_data['wgroup3'] = ['Longbow (bulky)', 'Crossbow (bulky)', 'Sling']
-gen_data['wgroup4'] = ['Halberd (bulky)', 'War Hammer (bulky)', 'Battleaxe (bulky)']
+gen_data['wgroup2'] = ['Sling', 'Darts', 'Throwing Knives']
+gen_data['wgroup3'] = ['Longbow (bulky)', 'Crossbow (bulky)']
+gen_data['wgroup4'] = ['Sword', 'Mace', 'Axe']
+gen_data['wgroup5'] = ['Pistol', 'Revolver']
+gen_data['wgroup6'] = ['Halberd (bulky)', 'Warhammer (bulky)', 'Battleaxe (bulky)']
+gen_data['wgroup7'] = ['Rifle (bulky)', 'Musket (bulky)']
 
 gen_data['armor_weapons'] = {
   '1-10':'{armor}',
@@ -259,26 +265,26 @@ gen_data['bonus'] = {
   '1-6': '{tool_trinket}',
   '7-13': '{gear}',
   '14-17': '{armor_weapons}',
-  '18-20': 'Spellbook containing the spell \'{spellbook}\''
+  '18-20': 'Wand containing the spell \'{wand}\''
 }
 
 gen_data['tool'] = [
   'Bellows'
-  ,  'Bucket (stacks)'
+  ,  'Bucket'
   ,  'Caltrops'
-  ,  'Chalk'
+  ,  'Chalk (light)'
   ,  'Chisel'
   ,  'Cook Pots'
   ,  'Crowbar'
   ,  'Drill (Manual)'
-  ,  'FishingRod'
-  ,  'Glue (stacks)'
+  ,  'Fishing Rod'
+  ,  'Glue'
   ,  'Grease'
   ,  'Hammer'
   ,  'Hourglass'
-  ,  'Metal File (stacks)'
-  ,  'Nails (stacks)'
-  ,  'Net (stacks)'
+  ,  'Metal File (light)'
+  ,  'Nails (light)'
+  ,  'Net'
   ,  'Saw'
   ,  'Sealant'
   ,  'Shovel'
@@ -286,26 +292,26 @@ gen_data['tool'] = [
 ]
 
 gen_data['trinket'] = [
-  'Bottle'
-,  'Card Deck (stacks)'
-,  'Dice Set (stacks)'
-,  'Face Paint'
-,  'Fake Jewels (stacks)'
-,  'Horn'
-,  'Incense (stacks)'
-,  'Instrument'
-,  'Lens'
-,  'Marbles (stacks)'
-,  'Mirror'
-,  'Perfume'
-,  'Quill &  Ink'
-,  'Salt Pack (stacks)'
-,  'Small Bell'
-,  'Soap (stacks)'
-,  'Sponge'
-,  'Tar Pot'
-,  'Twine (stacks)'
-,  'Whistle'
+  'Bottle (light)'
+,  'Card Deck (light)'
+,  'Dice Set (light)'
+,  'Face Paint (light)'
+,  'Fake Jewels (light)'
+,  'Horn (light)'
+,  'Incense (light)'
+,  'Instrument (light)'
+,  'Lens (light)'
+,  'Marbles (light)'
+,  'Mirror (light)'
+,  'Perfume (light)'
+,  'Quill & Ink (light)'
+,  'Salt Pack (light)'
+,  'Small Bell (light)'
+,  'Soap (light)'
+,  'Sponge (light)'
+,  'Tar Pot (light)'
+,  'Twine (light)'
+,  'Whistle (light)'
 ]
 
 gen_data['gear'] = [
@@ -313,9 +319,9 @@ gen_data['gear'] = [
 ,  'Antitoxin'
 ,  'Cart (+4 slots, bulky)'
 ,  'Chain (10ft)'
-,  'Dowsing Rod'
 ,  'Fire Oil'
-,  'Grappling Hook '
+,  'Gold Wire'
+,  'Grappling Hook'
 ,  'Large Sack'
 ,  'Large Trap'
 ,  'Lockpicks'
@@ -325,13 +331,13 @@ gen_data['gear'] = [
 ,  'Pulley'
 ,  'Repellent'
 ,  'Rope (25ft)'
-,  'Spirit Ward'
+,  'Silver Dust'
 ,  'Spyglass'
 ,  'Tinderbox'
 ,  'Wolfsbane '
 ]
 
-gen_data['spellbook'] = [
+gen_data['wand'] = [
   'Adhere'
 ,  'Anchor'
 ,  'Animate Object'
