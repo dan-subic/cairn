@@ -1,6 +1,11 @@
 roll = (d) => {
   return Math.floor(Math.random()*d)+1;
 };
+
+const gifts = []
+
+
+
 const armor = generate_text("armor");
 const tool = generate_text("tool");
 const gear = generate_text("gear");
@@ -39,11 +44,26 @@ if (armor.includes("Shield")) {
   armorTotal += 1;
 }
 
+const hp  = roll(6);
+const str = roll(6) + roll(6) + roll(6);
+const dex = roll(6) + roll(6) + roll(6);
+const wil = roll(6) + roll(6) + roll(6);
+
+let gift = "None";
+let mutation = "None";
+if (str + dex + wil <= 30) {
+  const minStat = Math.min(str, dex, wil);
+  const mutationType = generate_text("mutationType");
+  const mutationPart = generate_text("mutationPart");
+  mutation = mutationType + ' ' + mutationPart;
+}
+
 $("#character").html(generate_text("character"));
 $("#age").html(roll(20) + roll(20) + 10);
-$("#hp").html(roll(6));
-["str", "dex", "wil"].forEach((item, i) => {
-$("#" + item).html(roll(6) + roll(6) + roll(6));});
+$("#hp").html(hp);
+$("#str").html(str);
+$("#dex").html(dex);
+$("#wil").html(wil);
 $("#armor").html(armor);
 $("#weapons").html(weapons);
 $("#tool").html(tool);
@@ -55,3 +75,5 @@ $("#slotsTotal").html(total);
 $("#slotsNonLight").html(nonLightTotal);
 $("#slotsLight").html(lightTotal);
 $("#gold").html(roll(6) + roll(6) + roll(6));
+$("#gift").html(gift);
+$("#mutation").html(mutation);

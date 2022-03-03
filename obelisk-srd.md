@@ -379,9 +379,9 @@ Roll 1d6 for the nature of the mutation, and 1d20 for the body part.
 |--|------|--|------|--|------|--|------|
 | 1|Eyes  | 6|  Ears|11|Hands |16|Chest |
 | 2|Teeth | 7|  Face|12|Arms  |17|Back  |
-| 3|Tongue| 9|  Hair|13|Feet  |18|Torso |
-| 4|Mouth | 9|  Head|14|Legs  |19|Roll twice  |
-| 5|Nose  |10|  Skin|15|Limbs |20|Roll twice  |
+| 3|Tongue| 9|  Hair|13|Feet  |18|Neck  |
+| 4|Mouth | 9|  Head|14|Legs  |19|Shoulders |
+| 5|Nose  |10|  Skin|15|Limbs |20|Torso |
 
 <p></p>
 

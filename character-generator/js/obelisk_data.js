@@ -439,3 +439,35 @@ gen_data['wand'] = [
 ,  'Wizard Mark'
 ,  'X-Ray Vision'
 ]
+
+gen_data['mutationType'] = [
+  'Weird',
+  'Elemental',
+  'Monstrous',
+  'Animal',
+  'Artificial',
+  'Alien'
+]
+
+gen_data['mutationPart'] = [
+  'Eyes',
+  'Teeth',
+  'Tongue',
+  'Mouth',
+  'Nose',
+  'Ears',
+  'Face',
+  'Hair',
+  'Head',
+  'Skin',
+  'Hands',
+  'Arms',
+  'Feet',
+  'Legs',
+  'Limbs',
+  'Chest',
+  'Back',
+  'Neck',
+  'Shoulders',
+  'Torso'
+]
