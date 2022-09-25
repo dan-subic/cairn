@@ -9,7 +9,7 @@ nav_order: 2
 <p></p>
 
 **Obelisk** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Peruse the [repo](https://github.com/dan-subic/obelisk) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc).
+See the [repo](https://github.com/dan-subic/obelisk).
 
 **Obelisk** is an adventure game for one facilitator (the **Referee**) and at least one other player.
 Players act as hardened adventurers exploring dark & mysterious dungeons filled with strange folk, hidden treasure, and unspeakable monstrosities.
@@ -357,14 +357,14 @@ Determine your PC's Gift by cross-referencing their lowest ability score and the
 
 <div class="includeHeader includeColumnLabel"></div>
 
-| Lowest Ability Score | 1 HP                                                                           | 2 HP                                                                   | 3 HP                                                                 | 4 HP                                                    | 5 HP                                                   | 6 HP                                                                |
-|------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------------------|
-| 3-4              | Saliva is a powerful acid                                                      | Invisible while squeezing eyes shut                                    | Can manipulate wood with hands as if it were clay                    | Can transform into a horse                              | Can bite through any material, and safely eat anything | Communicate with any creature                                       |
-| 5                | 30ft prehensile tongue                                                         | Perfect throwing accuracy, except when targeting a living creature     | Can dislodge own soul to look into the spirit world by taking 1 Fatigue | Can secretly steal small objects with a mere touch      | Flammable touch & heat-resistant                       | Excellent swimming & don't need to breathe                          |
-| 6                | Body parts can be detached and reattached, can control detached parts at range | When squeezing one eye shut, can see in the dark, but not in the light | Briefly very strong after taking strong alcohol                      | Extra arm                                               | Climb any surface while hands & feet are bare          | Perfectly mimic someone's voice or replicate any sound heard before |
-| 7                | Can change someone's face at a touch. Reverts when washed                      | Can hock up a very sticky ball of gunk                                 | Gale-force sneeze                                                    | Can leap a long distance, fall from any height unharmed | Voice can come from somewhere nearby                   | Slippery skin while holding breath                                  |
-| 8                | Long, indestructible hair                                                      | Bloodhound-scent while eyes are closed                                 | Freezing touch & cold-resistant                                      | Safely swallow any item and regurgitate it later        | Can dig a hole or tunnel very fast                     | Can lay tasty green eggs                                            |
-| 9-10             | Can summon one starting item at will                                           | Shrink self & gear to 10% of original size                             | Perfect balance                                                      | Echolocate by singing                                   | Can snap fingers loud enough to deafen                 | Thrown coins & dice always land on the desired side                 |
+| Lowest Ability Score | 1 HP | 2 HP | 3 HP | 4 HP | 5 HP | 6 HP |
+| -------------------- | ---- | ---- | ---- | ---- | ---- | ---- |
+3-4 | Saliva is a powerful acid | Invisible while squeezing eyes shut | Can manipulate wood with hands as if it were clay | Can dislodge own soul to look into the spirit world by taking 1 Fatigue | Can secretly steal small objects with a mere touch | Flammable touch & heat-resistant |
+5 | 30ft prehensile tongue | Perfect throwing accuracy, except when targeting a living creature | When squeezing one eye shut, can see in the dark, but not in the light | Briefly very strong after taking strong alcohol | Can conjure an extra arm | Climb any surface while hands & feet are bare |
+6 | Body parts can be detached and reattached, can control detached parts at range | While pointing, the target is completely silent | Can hock up a very sticky ball of gunk | Gale-force sneeze | Can leap a long distance, fall from any height unharmed | Voice can come from somewhere nearby |
+7 | Can change someone's face at a touch. Reverts when washed | Can extrude & retract long, indestructible hair | Bloodhound-scent while eyes are closed | Freezing touch & cold-resistant | Perfect balance | Can dig a hole or tunnel very fast |
+8 | Can transform into a horse | Can summon one starting item at will | Shrink self & gear to 10% of original size | Excellent swimming & don't need to breathe | Echolocate by singing | Can lay tasty green eggs |
+9-10 | Can bite through any material, and safely eat anything | Communicate with any creature | Can change own scent to anything | Perfectly mimic someone's voice or replicate any sound heard before | Slippery skin while holding breath | Thrown coins & dice always land on the desired side |
 
 #### Mutations
 
@@ -581,7 +581,7 @@ Enemies must pass a WIL save to avoid fleeing when they take their first casualt
 PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
 
 ### Wealth & Treasure
-The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
+The most common coin is the gold piece..
 
 Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
 
