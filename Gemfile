@@ -5,3 +5,5 @@ group :jekyll_plugins do
     gem "just-the-docs"
     gem 'jekyll-redirect-from'
 end
+
+gem "webrick", "~> 1.8"
