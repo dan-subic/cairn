@@ -2,7 +2,7 @@
 layout: default
 title: Foundry VTT System
 parent: Resources
-nav_order: 6
+nav_order: 7
 ---
 
 # Foundry VTT System
