@@ -169,7 +169,7 @@ Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects
 #### Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
 
-Most items take up one slot. Slots are abstract and can be rearranged per the Referee's discretion.
+Most items take up one slot. Slots are abstract and can be rearranged per the Referee's discretion (to allocate extra slots to the body, for example).
 
 **Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 HP.
 
@@ -389,10 +389,17 @@ Roll 1d6 for the nature of the mutation, and 1d20 for the body part.
 
 #### Armor
 
-|       |        |           |                    |       |                |
-| :---: | :----: | :-------: | :----------------: | :---: | :------------: |
-|  1-5  |  6-11  |   12-15   |       16-18        |  19   |       20       |
-| None  | Shield | Chainmail | Chainmail & Shield | Plate | Plate & Shield |
+|       |            |           |       |
+| :---: | :--------: | :-------: | :---: |
+|  1-3  |    4-14    |   15-19   |  20   |
+| None  | Brigandine | Chainmail | Plate |
+
+#### Helmets & Shields
+
+|                   |        |        |                 |
+| :---------------: | :----: | :----: | :-------------: |
+|       1-13        | 14-16  | 17-19  |       20        |
+|       None        | Helmet | Shield | Helmet & Shield |
 
 #### Weapons
 
@@ -476,11 +483,14 @@ Roll 1d6 for the nature of the mutation, and 1d20 for the body part.
 
 #### Armor
 
-|                                    |     |
-|------------- ----------------------|-----|
-|Shield (+1 Armor)                   |10   |
-|Brigandine or Chainmail (1 Armor)   |40   |
-|Plate (2 Armor, bulky)              |60   |
+||     |
+|--------------------------------------------------------------|-----|
+|Shield (+1 Armor)            |10   |
+|Helmet (+1 Armor)            |10   |
+|Gambeson (+1 Armor)          |15   |
+|Brigandine (1 Armor, bulky)  |20   |
+|Chainmail (2 Armor, bulky)   |40   |
+|Plate (3 Armor, bulky)       |60   |
 
 #### Weapons
 
@@ -565,6 +575,9 @@ PCs can also gain Fatigue by **casting spells** or through events in the fiction
 Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
 No one can have more than 3 Armor.  
 Shields, gauntlets, and helms may provide additional benefits according to their use.
+
+### Sundering
+After damage is rolled, but before making any Critical Damage saves, an attacked character can choose to sunder one worn piece of armor to take 0 damage instead. The piece of armor is permanently destroyed.
 
 ### Reactions
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Referee may roll 2d6 and consult the following table:
