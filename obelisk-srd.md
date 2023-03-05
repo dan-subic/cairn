@@ -184,7 +184,6 @@ All PCs begin with:
 
 - Three days' rations (one slot each, light)
 - A torch (one slot)
-- Clothes (one slot, light)
 - 3d6 gold pieces
 
 Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons, tools, and equipment. If indicated, roll on the [**Wands**](#wands-d100) table with a d100 (or roll 2d10, using one die as the ones place, and the other as the tens place). Pick only one item for each result.
