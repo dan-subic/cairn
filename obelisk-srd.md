@@ -485,7 +485,7 @@ Roll 1d6 for the nature of the mutation, and 1d20 for the body part.
 ||     |
 |--------------------------------------------------------------|-----|
 |Shield (+1 Armor)            |10   |
-|Helmet (+1 Armor)            |10   |
+|Helmet (+1 Armor)            |15   |
 |Gambeson (+1 Armor)          |15   |
 |Brigandine (1 Armor, bulky)  |20   |
 |Chainmail (2 Armor, bulky)   |40   |
@@ -576,7 +576,7 @@ No one can have more than 3 Armor.
 Shields, gauntlets, and helms may provide additional benefits according to their use.
 
 ### Sundering
-After damage is rolled, but before making any Critical Damage saves, an attacked character can choose to sunder one worn piece of armor to take 0 damage instead. The piece of armor is permanently destroyed.
+After damage is rolled, but before making any Critical Damage saves, an attacked character can choose to sunder a worn helmet or shield to take 0 damage instead. The item is permanently destroyed.
 
 ### Reactions
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Referee may roll 2d6 and consult the following table:
@@ -972,7 +972,7 @@ No one can have more than 3 Armor.
 
 If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack has a **bonus**, the attacker rolls an extra die. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 
-An attacked character can choose to **sunder** one worn piece of armor to take 0 damage instead.
+An attacked character can choose to **sunder** a worn helmet or shield to take 0 damage instead.
 
 **DAMAGE**  
 If an attack takes a PC's HP exactly to 0, the player rolls on the [**Scars**](#scars-table) table.
