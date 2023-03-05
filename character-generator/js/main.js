@@ -14,6 +14,7 @@ const gifts = [
 
 
 const armor = generate_text("armor");
+const helmet = generate_text("helmet");
 const tool = generate_text("tool");
 const gear = generate_text("gear");
 const trinket = generate_text("trinket");
@@ -21,14 +22,14 @@ const weapons = generate_text("weapons");
 const bonus = generate_text("bonus");
 
 let allItems = [];
-allItems.push(armor, weapons, gear, tool, trinket, bonus);
+allItems.push(armor, helmet, weapons, gear, tool, trinket, bonus);
 let nonLightTotal = 1;
 let lightTotal = 4;
 for (let i = 0; i < allItems.length; i++) {
   let item = allItems[i];
-  if (item.includes("bulky")) {
+  if (item.includes("bulky") || item.includes("and a")) {
     nonLightTotal += 2;
-  } else if (!item.includes("nor") && !item.includes("light")) {
+  } else if (!item.includes("protection") && !item.includes("nor") && !item.includes("light")) {
     nonLightTotal++;
   } else if (item.includes("light")) {
     lightTotal++;
@@ -42,14 +43,19 @@ if (lightTotal > nonLightTotal) {
 }
 
 let armorTotal = 0;
-if (armor.includes("Chainmail")) {
-  armorTotal = 1;
-} else if (armor.includes("Plate")){
-  armorTotal = 2;
-}
-if (armor.includes("Shield")) {
-  armorTotal += 1;
-}
+let armorValue = [];
+armorValue.push(armor, helmet);
+armorValue.forEach((item) => {
+  if (item.includes("1")) {
+    armorTotal++;
+  } if (armorTotal > 3){
+      armorTotal = 3;
+  } else if (item.includes("2")) {
+    armorTotal += 2;
+  } else if (item.includes("3")) {
+    armorTotal += 3;
+  }
+});
 
 const hp  = roll(6);
 const str = roll(6) + roll(6) + roll(6);
@@ -79,6 +85,7 @@ $("#str").html(str);
 $("#dex").html(dex);
 $("#wil").html(wil);
 $("#armor").html(armor);
+$("#helmet").html(helmet);
 $("#weapons").html(weapons);
 $("#tool").html(tool);
 $("#gear").html(gear);
