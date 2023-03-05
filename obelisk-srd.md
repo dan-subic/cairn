@@ -973,6 +973,8 @@ No one can have more than 3 Armor.
 
 If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack has a **bonus**, the attacker rolls an extra die. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 
+An attacked character can choose to **sunder** one worn piece of armor to take 0 damage instead.
+
 **DAMAGE**  
 If an attack takes a PC's HP exactly to 0, the player rolls on the [**Scars**](#scars-table) table.
 
